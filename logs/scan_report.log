@@ -1,0 +1,83 @@
+[2025-12-28 23:52:31] [INFO] Tor bağlantısı doğrulandı
+[2025-12-28 23:52:31] [INFO] === Dark Web Forum Scraper Başlatıldı ===
+[2025-12-28 23:52:36] [WARN] GhostHub için URL listesi boş
+[2025-12-31 14:43:36] [INFO] Tor bağlantısı doğrulandı
+[2025-12-31 14:43:36] [INFO] === Dark Web Forum Scraper Başlatıldı ===
+[2025-12-31 14:59:59] [INFO] Program sonlandırıldı
+[2025-12-31 15:00:16] [INFO] Tor bağlantısı doğrulandı
+[2025-12-31 15:00:16] [INFO] === Dark Web Forum Scraper Başlatıldı ===
+[2025-12-31 15:00:18] [INFO] === GhostHub Taraması Başlatıldı ===
+[2025-12-31 15:00:18] [INFO] İlerleme [GhostHub]: 1/1
+[2025-12-31 15:00:19] [INFO] Taranıyor: http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion
+[2025-12-31 15:00:25] [INFO] Başarılı: http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion -> scraped_data\http_aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid_onion_20251231_150025.html (37100 bytes)
+[2025-12-31 15:00:26] [INFO] === GhostHub Taraması Tamamlandı ===
+[2025-12-31 15:00:26] [INFO] GhostHub - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:04:40] [INFO] === Tüm Forumlar Taraması Başlatıldı ===
+[2025-12-31 15:04:40] [INFO] === GhostHub Taraması Başlatıldı ===
+[2025-12-31 15:04:40] [INFO] İlerleme [GhostHub]: 1/1
+[2025-12-31 15:04:40] [INFO] Taranıyor: http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion
+[2025-12-31 15:04:43] [INFO] Başarılı: http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion -> scraped_data\http_aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid_onion_20251231_150443.html (37101 bytes)
+[2025-12-31 15:04:44] [INFO] === GhostHub Taraması Tamamlandı ===
+[2025-12-31 15:04:44] [INFO] GhostHub - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:04:46] [INFO] === Darkzone Taraması Başlatıldı ===
+[2025-12-31 15:04:46] [INFO] İlerleme [Darkzone]: 1/1
+[2025-12-31 15:04:46] [INFO] Taranıyor: http://cashvosowt4iblo6levginhhquzi5iot5wedgtfyxxs5bkyk33roybqd.onion
+[2025-12-31 15:05:16] [ERR] İstek başarısız (http://cashvosowt4iblo6levginhhquzi5iot5wedgtfyxxs5bkyk33roybqd.onion): Get "http://cashvosowt4iblo6levginhhquzi5iot5wedgtfyxxs5bkyk33roybqd.onion": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2025-12-31 15:05:16] [ERR] Tarama başarısız [Darkzone] (http://cashvosowt4iblo6levginhhquzi5iot5wedgtfyxxs5bkyk33roybqd.onion): Get "http://cashvosowt4iblo6levginhhquzi5iot5wedgtfyxxs5bkyk33roybqd.onion": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2025-12-31 15:05:16] [INFO] === Darkzone Taraması Tamamlandı ===
+[2025-12-31 15:05:16] [INFO] Darkzone - Başarılı: 0, Başarısız: 1
+[2025-12-31 15:05:18] [INFO] === DeepWeb Question and Answers Taraması Başlatıldı ===
+[2025-12-31 15:05:18] [INFO] İlerleme [DeepWeb Question and Answers]: 1/1
+[2025-12-31 15:05:18] [INFO] Taranıyor: http://fullzcxfok5643yy667mn75cqlcazzvr6oytdziffhku66k7wbnghxqd.onion
+[2025-12-31 15:05:20] [INFO] Başarılı: http://fullzcxfok5643yy667mn75cqlcazzvr6oytdziffhku66k7wbnghxqd.onion -> scraped_data\http_fullzcxfok5643yy667mn75cqlcazzvr6oytdziffhku66k7wbnghxqd_onion_20251231_150520.html (21122 bytes)
+[2025-12-31 15:05:21] [INFO] === DeepWeb Question and Answers Taraması Tamamlandı ===
+[2025-12-31 15:05:21] [INFO] DeepWeb Question and Answers - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:05:23] [INFO] === Respostas Ocultas Taraması Başlatıldı ===
+[2025-12-31 15:05:23] [INFO] İlerleme [Respostas Ocultas]: 1/1
+[2025-12-31 15:05:23] [INFO] Taranıyor: http://exiliokpa5hknpknevkccokdrkmw2nibcrl3ehjwkr2nj55ff5xfuwad.onion
+[2025-12-31 15:05:25] [INFO] Başarılı: http://exiliokpa5hknpknevkccokdrkmw2nibcrl3ehjwkr2nj55ff5xfuwad.onion -> scraped_data\http_exiliokpa5hknpknevkccokdrkmw2nibcrl3ehjwkr2nj55ff5xfuwad_onion_20251231_150525.html (13160 bytes)
+[2025-12-31 15:05:26] [INFO] === Respostas Ocultas Taraması Tamamlandı ===
+[2025-12-31 15:05:26] [INFO] Respostas Ocultas - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:05:28] [INFO] === Out3r Space Taraması Başlatıldı ===
+[2025-12-31 15:05:28] [INFO] İlerleme [Out3r Space]: 1/1
+[2025-12-31 15:05:28] [INFO] Taranıyor: http://forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id.onion
+[2025-12-31 15:05:31] [INFO] Başarılı: http://forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id.onion -> scraped_data\http_forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id_onion_20251231_150531.html (23586 bytes)
+[2025-12-31 15:05:32] [INFO] === Out3r Space Taraması Tamamlandı ===
+[2025-12-31 15:05:32] [INFO] Out3r Space - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:05:34] [INFO] === The Tor Forum Taraması Başlatıldı ===
+[2025-12-31 15:05:34] [INFO] İlerleme [The Tor Forum]: 1/1
+[2025-12-31 15:05:34] [INFO] Taranıyor: http://forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id.onion
+[2025-12-31 15:05:36] [INFO] Başarılı: http://forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id.onion -> scraped_data\http_forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id_onion_20251231_150536.html (23586 bytes)
+[2025-12-31 15:05:37] [INFO] === The Tor Forum Taraması Tamamlandı ===
+[2025-12-31 15:05:37] [INFO] The Tor Forum - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:05:39] [INFO] === DarkWeb Forums Taraması Başlatıldı ===
+[2025-12-31 15:05:39] [INFO] İlerleme [DarkWeb Forums]: 1/1
+[2025-12-31 15:05:39] [INFO] Taranıyor: http://dreamr6y7e7ilemgws2ccuegvwdge3sfdm2ijh4s4hc2eggz3cvgl2ad.onion
+[2025-12-31 15:05:43] [INFO] Başarılı: http://dreamr6y7e7ilemgws2ccuegvwdge3sfdm2ijh4s4hc2eggz3cvgl2ad.onion -> scraped_data\http_dreamr6y7e7ilemgws2ccuegvwdge3sfdm2ijh4s4hc2eggz3cvgl2ad_onion_20251231_150543.html (64170 bytes)
+[2025-12-31 15:05:44] [INFO] === DarkWeb Forums Taraması Tamamlandı ===
+[2025-12-31 15:05:44] [INFO] DarkWeb Forums - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:05:46] [INFO] === Suprbay Taraması Başlatıldı ===
+[2025-12-31 15:05:46] [INFO] İlerleme [Suprbay]: 1/1
+[2025-12-31 15:05:46] [INFO] Taranıyor: http://darkzqtmbdeauwq5mzcmgeeuhet42fhfjj4p5wbak3ofx2yqgecoeqyd.onion
+[2025-12-31 15:05:49] [INFO] Başarılı: http://darkzqtmbdeauwq5mzcmgeeuhet42fhfjj4p5wbak3ofx2yqgecoeqyd.onion -> scraped_data\http_darkzqtmbdeauwq5mzcmgeeuhet42fhfjj4p5wbak3ofx2yqgecoeqyd_onion_20251231_150549.html (3260 bytes)
+[2025-12-31 15:05:50] [INFO] === Suprbay Taraması Tamamlandı ===
+[2025-12-31 15:05:50] [INFO] Suprbay - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:05:52] [INFO] === Hidden Answers Taraması Başlatıldı ===
+[2025-12-31 15:05:52] [INFO] İlerleme [Hidden Answers]: 1/1
+[2025-12-31 15:05:52] [INFO] Taranıyor: http://bags3opronrsfn4umq5w7zaaqillxfq4ml3vrqyb47vid6ujbywarqyd.onion
+[2025-12-31 15:05:59] [INFO] Başarılı: http://bags3opronrsfn4umq5w7zaaqillxfq4ml3vrqyb47vid6ujbywarqyd.onion -> scraped_data\http_bags3opronrsfn4umq5w7zaaqillxfq4ml3vrqyb47vid6ujbywarqyd_onion_20251231_150559.html (43162 bytes)
+[2025-12-31 15:06:00] [INFO] === Hidden Answers Taraması Tamamlandı ===
+[2025-12-31 15:06:00] [INFO] Hidden Answers - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:06:02] [INFO] === FrenchPool Taraması Başlatıldı ===
+[2025-12-31 15:06:02] [INFO] İlerleme [FrenchPool]: 1/1
+[2025-12-31 15:06:02] [INFO] Taranıyor: http://24ov5b5kawzsevv2ayltf52shlutzsewcjligevx35izqahqivdujryd.onion
+[2025-12-31 15:06:05] [INFO] Başarılı: http://24ov5b5kawzsevv2ayltf52shlutzsewcjligevx35izqahqivdujryd.onion -> scraped_data\http_24ov5b5kawzsevv2ayltf52shlutzsewcjligevx35izqahqivdujryd_onion_20251231_150605.html (4990 bytes)
+[2025-12-31 15:06:06] [INFO] === FrenchPool Taraması Tamamlandı ===
+[2025-12-31 15:06:06] [INFO] FrenchPool - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:06:08] [INFO] === Wall of Shame Taraması Başlatıldı ===
+[2025-12-31 15:06:08] [INFO] İlerleme [Wall of Shame]: 1/1
+[2025-12-31 15:06:08] [INFO] Taranıyor: http://apwalloxvnx4jzy2q5lomljv2jfoxtlsv2acafrklmi2hy36yi32stad.onion/
+[2025-12-31 15:06:09] [INFO] Başarılı: http://apwalloxvnx4jzy2q5lomljv2jfoxtlsv2acafrklmi2hy36yi32stad.onion/ -> scraped_data\http_apwalloxvnx4jzy2q5lomljv2jfoxtlsv2acafrklmi2hy36yi32stad_onion__20251231_150609.html (1122 bytes)
+[2025-12-31 15:06:10] [INFO] === Wall of Shame Taraması Tamamlandı ===
+[2025-12-31 15:06:10] [INFO] Wall of Shame - Başarılı: 1, Başarısız: 0
+[2025-12-31 15:06:12] [INFO] === Tüm Forumlar Taraması Tamamlandı ===

@@ -1,0 +1,98 @@
+[2025-12-28 22:03:15] [INFO] === Tor Scraper Başlatılıyor ===
+[2025-12-28 22:03:15] [INFO] Tor proxy'ye bağlanılıyor: 127.0.0.1:9150
+[2025-12-28 22:03:15] [INFO] Tor bağlantısı doğrulandı
+[2025-12-28 22:03:15] [INFO] Hedef dosyası okunuyor: targets.yaml
+[2025-12-28 22:03:15] [INFO] 3 URL bulundu
+[2025-12-28 22:03:15] [INFO] İlerleme: 1/3
+[2025-12-28 22:03:15] [INFO] Taranıyor: http://example.onion
+[2025-12-28 22:03:15] [ERR] İstek başarısız (http://example.onion): Get "http://example.onion": socks connect tcp 127.0.0.1:9150->example.onion:80: unknown error unknown code: 246
+[2025-12-28 22:03:15] [ERR] Tarama başarısız (http://example.onion): Get "http://example.onion": socks connect tcp 127.0.0.1:9150->example.onion:80: unknown error unknown code: 246
+[2025-12-28 22:03:15] [INFO] İlerleme: 2/3
+[2025-12-28 22:03:15] [INFO] Taranıyor: http://test.onion
+[2025-12-28 22:03:15] [ERR] İstek başarısız (http://test.onion): Get "http://test.onion": socks connect tcp 127.0.0.1:9150->test.onion:80: unknown error unknown code: 246
+[2025-12-28 22:03:15] [ERR] Tarama başarısız (http://test.onion): Get "http://test.onion": socks connect tcp 127.0.0.1:9150->test.onion:80: unknown error unknown code: 246
+[2025-12-28 22:03:15] [INFO] İlerleme: 3/3
+[2025-12-28 22:03:15] [INFO] Taranıyor: http://sample.onion
+[2025-12-28 22:03:15] [ERR] İstek başarısız (http://sample.onion): Get "http://sample.onion": socks connect tcp 127.0.0.1:9150->sample.onion:80: unknown error unknown code: 246
+[2025-12-28 22:03:15] [ERR] Tarama başarısız (http://sample.onion): Get "http://sample.onion": socks connect tcp 127.0.0.1:9150->sample.onion:80: unknown error unknown code: 246
+[2025-12-28 22:03:15] [INFO] === Tarama Tamamlandı ===
+[2025-12-28 22:03:15] [INFO] Toplam URL: 3
+[2025-12-28 22:03:15] [INFO] Başarılı: 0
+[2025-12-28 22:03:15] [INFO] Başarısız: 3
+[2025-12-28 22:03:15] [INFO] Çıktı dizini: scraped_data
+[2025-12-28 22:03:15] [INFO] Log dosyası: scan_report.log
+[2025-12-28 22:09:59] [INFO] === Tor Scraper Başlatılıyor ===
+[2025-12-28 22:09:59] [INFO] Tor proxy'ye bağlanılıyor: 127.0.0.1:9150
+[2025-12-28 22:10:00] [INFO] Tor bağlantısı doğrulandı
+[2025-12-28 22:10:00] [INFO] Hedef dosyası okunuyor: targets.yaml
+[2025-12-28 22:10:00] [INFO] 6 URL bulundu
+[2025-12-28 22:10:00] [INFO] İlerleme: 1/6
+[2025-12-28 22:10:00] [INFO] Taranıyor: https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+[2025-12-28 22:10:03] [INFO] Başarılı: https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion -> scraped_data\https_duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad_onion_20251228_221003.html (18126 bytes)
+[2025-12-28 22:10:04] [INFO] İlerleme: 2/6
+[2025-12-28 22:10:04] [INFO] Taranıyor: http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion
+[2025-12-28 22:10:08] [INFO] Başarılı: http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion -> scraped_data\http_2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid_onion_20251228_221008.html (5385 bytes)
+[2025-12-28 22:10:09] [INFO] İlerleme: 3/6
+[2025-12-28 22:10:09] [INFO] Taranıyor: http://torsl5stmjulcqnp45gytz625uegmosls5ebjqkzxoxl4d6iy3fn4zyd.onion
+[2025-12-28 22:10:14] [INFO] Başarılı: http://torsl5stmjulcqnp45gytz625uegmosls5ebjqkzxoxl4d6iy3fn4zyd.onion -> scraped_data\http_torsl5stmjulcqnp45gytz625uegmosls5ebjqkzxoxl4d6iy3fn4zyd_onion_20251228_221014.html (3888 bytes)
+[2025-12-28 22:10:15] [INFO] İlerleme: 4/6
+[2025-12-28 22:10:15] [INFO] Taranıyor: http://pcards6wkojzcg44rbz3c3cycasgmpgx4vxf2vl5sdikckpdegftkkid.onion
+[2025-12-28 22:10:21] [INFO] Başarılı: http://pcards6wkojzcg44rbz3c3cycasgmpgx4vxf2vl5sdikckpdegftkkid.onion -> scraped_data\http_pcards6wkojzcg44rbz3c3cycasgmpgx4vxf2vl5sdikckpdegftkkid_onion_20251228_221021.html (693987 bytes)
+[2025-12-28 22:10:22] [INFO] İlerleme: 5/6
+[2025-12-28 22:10:22] [INFO] Taranıyor: http://bankor5nng3x5yg2n5xg6ilu2mkk4abnojpzzvbmzhinkhr5p3fl6wyd.onion
+[2025-12-28 22:10:26] [INFO] Başarılı: http://bankor5nng3x5yg2n5xg6ilu2mkk4abnojpzzvbmzhinkhr5p3fl6wyd.onion -> scraped_data\http_bankor5nng3x5yg2n5xg6ilu2mkk4abnojpzzvbmzhinkhr5p3fl6wyd_onion_20251228_221026.html (30248 bytes)
+[2025-12-28 22:10:27] [INFO] İlerleme: 6/6
+[2025-12-28 22:10:27] [INFO] Taranıyor: http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion
+[2025-12-28 22:10:27] [ERR] İstek başarısız (http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion): Get "http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion": socks connect tcp 127.0.0.1:9150->f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion:80: unknown error unknown code: 246
+[2025-12-28 22:10:27] [ERR] Tarama başarısız (http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion): Get "http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion": socks connect tcp 127.0.0.1:9150->f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion:80: unknown error unknown code: 246
+[2025-12-28 22:10:27] [INFO] === Tarama Tamamlandı ===
+[2025-12-28 22:10:27] [INFO] Toplam URL: 6
+[2025-12-28 22:10:27] [INFO] Başarılı: 5
+[2025-12-28 22:10:27] [INFO] Başarısız: 1
+[2025-12-28 22:10:27] [INFO] Çıktı dizini: scraped_data
+[2025-12-28 22:10:27] [INFO] Log dosyası: scan_report.log
+[2025-12-28 23:15:18] [INFO] === Tor Scraper Başlatılıyor ===
+[2025-12-28 23:15:18] [INFO] Tor proxy'ye bağlanılıyor: 127.0.0.1:9150
+[2025-12-28 23:15:19] [INFO] Tor bağlantısı doğrulandı
+[2025-12-28 23:15:19] [INFO] Hedef dosyası okunuyor: targets.yaml
+[2025-12-28 23:15:19] [INFO] 11 URL bulundu
+[2025-12-28 23:15:19] [INFO] İlerleme: 1/11
+[2025-12-28 23:15:19] [INFO] Taranıyor: https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+[2025-12-28 23:15:22] [INFO] Başarılı: https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion -> scraped_data\https_duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad_onion_20251228_231522.html (18126 bytes)
+[2025-12-28 23:15:23] [INFO] İlerleme: 2/11
+[2025-12-28 23:15:23] [INFO] Taranıyor: http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion
+[2025-12-28 23:15:28] [INFO] Başarılı: http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion -> scraped_data\http_2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid_onion_20251228_231528.html (5385 bytes)
+[2025-12-28 23:15:29] [INFO] İlerleme: 3/11
+[2025-12-28 23:15:29] [INFO] Taranıyor: http://torsl5stmjulcqnp45gytz625uegmosls5ebjqkzxoxl4d6iy3fn4zyd.onion
+[2025-12-28 23:15:33] [INFO] Başarılı: http://torsl5stmjulcqnp45gytz625uegmosls5ebjqkzxoxl4d6iy3fn4zyd.onion -> scraped_data\http_torsl5stmjulcqnp45gytz625uegmosls5ebjqkzxoxl4d6iy3fn4zyd_onion_20251228_231533.html (3888 bytes)
+[2025-12-28 23:15:34] [INFO] İlerleme: 4/11
+[2025-12-28 23:15:34] [INFO] Taranıyor: http://pcards6wkojzcg44rbz3c3cycasgmpgx4vxf2vl5sdikckpdegftkkid.onion
+[2025-12-28 23:15:42] [INFO] Başarılı: http://pcards6wkojzcg44rbz3c3cycasgmpgx4vxf2vl5sdikckpdegftkkid.onion -> scraped_data\http_pcards6wkojzcg44rbz3c3cycasgmpgx4vxf2vl5sdikckpdegftkkid_onion_20251228_231542.html (693987 bytes)
+[2025-12-28 23:15:43] [INFO] İlerleme: 5/11
+[2025-12-28 23:15:43] [INFO] Taranıyor: http://bankor5nng3x5yg2n5xg6ilu2mkk4abnojpzzvbmzhinkhr5p3fl6wyd.onion
+[2025-12-28 23:15:46] [INFO] Başarılı: http://bankor5nng3x5yg2n5xg6ilu2mkk4abnojpzzvbmzhinkhr5p3fl6wyd.onion -> scraped_data\http_bankor5nng3x5yg2n5xg6ilu2mkk4abnojpzzvbmzhinkhr5p3fl6wyd_onion_20251228_231546.html (30248 bytes)
+[2025-12-28 23:15:47] [INFO] İlerleme: 6/11
+[2025-12-28 23:15:47] [INFO] Taranıyor: http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion
+[2025-12-28 23:15:47] [ERR] İstek başarısız (http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion): Get "http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion": socks connect tcp 127.0.0.1:9150->f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion:80: unknown error unknown code: 246
+[2025-12-28 23:15:47] [ERR] Tarama başarısız (http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion): Get "http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion": socks connect tcp 127.0.0.1:9150->f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6g7lcw3n4qad.onion:80: unknown error unknown code: 246
+[2025-12-28 23:15:47] [INFO] İlerleme: 7/11
+[2025-12-28 23:15:47] [INFO] Taranıyor: http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion
+[2025-12-28 23:15:49] [INFO] Başarılı: http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion -> scraped_data\http_thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid_onion_20251228_231549.html (12733 bytes)
+[2025-12-28 23:15:50] [INFO] İlerleme: 8/11
+[2025-12-28 23:15:50] [INFO] Taranıyor: http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion
+[2025-12-28 23:15:54] [INFO] Başarılı: http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion -> scraped_data\http_darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad_onion_20251228_231554.html (46900 bytes)
+[2025-12-28 23:15:55] [INFO] İlerleme: 9/11
+[2025-12-28 23:15:55] [INFO] Taranıyor: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion
+[2025-12-28 23:15:58] [INFO] Başarılı: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion -> scraped_data\http_suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad_onion_20251228_231558.html (8668 bytes)
+[2025-12-28 23:15:59] [INFO] İlerleme: 10/11
+[2025-12-28 23:15:59] [INFO] Taranıyor: http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion
+[2025-12-28 23:16:15] [INFO] Başarılı: http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion -> scraped_data\http_xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd_onion_20251228_231615.html (68 bytes)
+[2025-12-28 23:16:16] [INFO] İlerleme: 11/11
+[2025-12-28 23:16:16] [INFO] Taranıyor: http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion
+[2025-12-28 23:16:20] [INFO] Başarılı: http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion -> scraped_data\http_juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd_onion_20251228_231620.html (2060 bytes)
+[2025-12-28 23:16:21] [INFO] === Tarama Tamamlandı ===
+[2025-12-28 23:16:21] [INFO] Toplam URL: 11
+[2025-12-28 23:16:21] [INFO] Başarılı: 10
+[2025-12-28 23:16:21] [INFO] Başarısız: 1
+[2025-12-28 23:16:21] [INFO] Çıktı dizini: scraped_data
+[2025-12-28 23:16:21] [INFO] Log dosyası: scan_report.log
